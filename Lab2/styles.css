@@ -32,7 +32,9 @@ nav {
     float: left;
     width: 20% ;
     height: 100vh;
-    padding-top: 25px;
+    padding-top: 10px;
+    position: sticky;
+    top: 0px ;
 }
 
 nav ul {
@@ -61,6 +63,8 @@ nav ul li a:hover {
 main {
     padding: 20px;
     overflow: auto;
+    float: right:
+    width: 77%;
 }
 
 /* Info Section Styles */
