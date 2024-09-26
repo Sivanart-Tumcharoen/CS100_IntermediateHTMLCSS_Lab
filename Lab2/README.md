@@ -45,7 +45,10 @@ nav ul li {
 - Modify the CSS `nav ul li` style:
   - Adjust the `display` property so that it displays list items vertically
   - Adjust the margin so that it looks appropriate (more spacing between list items).
-```css
+```nav ul li {
+
+    margin: 15px;
+}
 ```
 
 - Modify the CSS `nav` style:
